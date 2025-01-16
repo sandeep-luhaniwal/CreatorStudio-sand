@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const WhyJoin = () => {
     return (
-        <div className='bg-[#f3f5f7]'>
+        <div className='bg-[#f3f5f7] text-white'>
             <div className="max-w-[1200px] px-4 mx-auto xl:px-0 py-16 md:py-[70px] lg:py-20">
                 <h2 className="text-center text-3xl md:text-4xl font-bold text-black leading-none text-opacity-90">Why Join AmiloAi</h2>
                 <p className='text-base text-center text-black md:text-lg text-opacity-70 leading-none pt-2.5 pb-10 md:pb-12'>Joining the world's largest hospitality network can benefit you in many ways</p>
